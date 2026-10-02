@@ -11,7 +11,8 @@
  *   getStringLength() => 0
  *   getStringLength(null) => 0
  *   getStringLength(undefined) => 0
- */
+
+ */  
 function getStringLength() {
   ЗДЕСЬ ВЫ ПИШЕТЕ СВОЕ РЕШЕНИЕ
 }
